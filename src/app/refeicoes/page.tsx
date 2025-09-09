@@ -1,10 +1,10 @@
 import Menu from "@/components/menu"
 
-export default function DashboardPage() {
+export default function RefeicoesPage() {
   return (
     <div>
       <Menu />
-      <h1>Dashboard</h1>
+      <h1>Registro de refeições</h1>
     </div>
   )
 }
